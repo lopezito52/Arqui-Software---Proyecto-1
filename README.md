@@ -75,6 +75,6 @@ El sistema se diseñó priorizando la alta cohesión y el bajo acoplamiento medi
 
 ## 👥 Créditos y Roles
 
-- Juan Pablo Parrado Morales - Implementación de patrones de diseño.
+- Juan Pablo Parrado Morales - Desarrolador App e Implementación de patrones de diseño.
 - Gabriela sofia Fuentes Cordoba - Diseño UML y lógica de negocio.
 - Samuel Esteban Lopez Huertas - Creatividad y video de presentación.
