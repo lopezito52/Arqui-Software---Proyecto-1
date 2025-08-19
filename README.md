@@ -51,6 +51,9 @@ Los atributos de calidad priorizados son:
 
 Esta estructura me permite que el algoritmo de persistencia sea intercambiable. Si en el futuro se requiriera un modo offline, podría crear una nueva clase _SQLiteProgressRepository_ que implemente la misma interfaz. De este modo, sería posible cambiar la estrategia de guardado de datos (por ejemplo, entre online y offline) sin necesidad de modificar el _ProgressManager_ o las Activities, que son los clientes de esta estrategia. Esto desacopla la lógica de negocio de los detalles de la implementación de datos, aumentando la flexibilidad y mantenibilidad del sistema.
 
+### UML
+![Image_Alt](https://github.com/lopezito52/Arqui-Software---Proyecto-1/blob/c3ec64c0d3fc8c06da9d3f630420874fa2fb6d1c/uml.jpeg)
+
 **Justificación**
 
 La elección de estos principios y patrones responde a la necesidad de construir una aplicación mantenible, escalable y adaptable.
