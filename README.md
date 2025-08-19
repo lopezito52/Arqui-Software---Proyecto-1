@@ -15,7 +15,7 @@ Los principales beneficiados son:
 
 ## 🎨 Creatividad en la Presentación
 
-Incluye aquí el enlace al video o recurso creativo que explica el problema (puede ser una historia, sketch, animación, etc.).
+(https://www.canva.com/design/DAGwe2s2f3g/X2C_D6cZoTVPqrhfewGJmA/edit?utm_content=DAGwe2s2f3g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🧱 Fundamentos de Ingeniería de Software
 
